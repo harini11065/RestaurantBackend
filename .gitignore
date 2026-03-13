@@ -1,0 +1,7 @@
+# Visual Studio system files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.slnx
+
